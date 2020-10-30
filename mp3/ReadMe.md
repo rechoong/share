@@ -1,12 +1,16 @@
 
-正在播放: 《夜色钢琴曲》左手指月 - 赵海洋 - 夜色钢琴曲赵海洋: http://www.eggvod.cn/music/?id=262147552&type=ximalaya
+正在播放: 《夜色钢琴曲》左手指月 [mp3下载](http://aod.cos.tx.xmcdn.com/group76/M00/52/F0/wKgO3l5dDnuDw6NuABCNufo_vnc804.mp3) - 赵海洋 - 夜色钢琴曲赵海洋: http://www.eggvod.cn/music/?id=262147552&type=ximalaya
 
 帮助：
+
 标红 为 音乐 ID，下划线 表示 音乐地址
 
 蜻蜓 FM 的音乐 ID 需要使用 | (管道符) 组合，例如 158696|5266259
+
 全民 K 歌的音乐名称请输入 shareuid，这是用户的 uid，搜索结果是该用户的所有公开作品
+
 全民 K 歌的音乐 ID 请输入 shareid 这是单曲分享 id，搜索结果是该单曲信息
+
 网易：http://music.163.com/#/song?id=25906124
 
 ＱＱ：http://y.qq.com/n/yqq/song/002B2EAA3brD5b.html
