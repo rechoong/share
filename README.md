@@ -55,3 +55,31 @@
 4、 一个自然月内最多可修改并保存三次，本月剩余保存次数：5
 </blockquote>
 </details>
+
+<details>
+   <summary>  <b>
+<a href="https://github.com/taoste/Hello-World/tree/master/github">HTML图文分享简易代码</a>：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a>》<br/>
+	   <a href="https://www.jb51.net/web/740948.html" title="HTML中图片不存在显示默认图片的方法示例_HTML/Xhtml_网页制作_脚本之家">HTML中图片不存在显示默认图片的方法示例</a></b>
+</summary>
+<table> 	
+<p>全部的代码</p>
+<div class="jb51code">
+<pre class="brush:xhtml;">
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;《都要脱钩了，怎么每次还大惊小怪？》&lt;/title&gt;
+  &lt;link rel="icon" href="/images/share.jpg" > 
+&lt;/head&gt;
+&lt;body bgcolor="#1B1B1B" text="#000000"&gt;
+  &lt;p style="text-align:center"&gt;
+   &lt;a href="https://github.com/inchoong/go/raw/master/s/wx/20200723/0.PNG" title="《都要脱钩了，怎么每次还大惊小怪？》"&gt;
+   &lt;img src="https://github.com/inchoong/go/blob/master/s/wx/20200723/0.PNG?raw=true" /&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+</table> </details>
