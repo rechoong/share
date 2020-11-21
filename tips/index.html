@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>点赞👍充电...</title>
+<link rel="shortcut icon" href="../favicon.png" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> 
+addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script type="applijewelleryion/x-javascript"> 
+addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="plugin/style.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="plugin/jquery.countdown.css" />
+<script src="plugin/jquery.min.js"></script>
+<script src="plugin/jquery.countdown.js"></script>
+<script src="plugin/script.js"></script>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: rgba(255,255,255,0.2);   /* 设置背景颜色：默认透明色，背景图加载过程中会显示背景色 */
+    }
+    /* 设置白色容器 */
+    #con {
+      width: 320px;
+      height: 85px;
+      background-color: #fff;
+      position: relative;
+      border-radius: 4px;
+      margin:50px auto;
+    }
+    /* 设置文本内容容器 */
+    #TA-con {
+      width: 157px;
+      height: 50px;
+      background-color: #f25d8e;
+      box-shadow: 0 4px 4px rgba(255, 112, 159, .3);
+      position: absolute;
+      top: 50%;
+      left: 5%;
+      transform: translateY(-50%);
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    /* 设置文本居中容器 */
+    #text-con {
+      width: 100px;
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+    }
+    /* 做一个小闪电 */
+    #linght {
+      width: 0;
+      height: 0;
+      position: absolute;
+      top: 36%;
+      left: 4px;
+      border-color: transparent;
+      border-style: solid;
+      border-width: 10px;
+      border-top: 10px solid #fff;
+      border-radius: 4px;
+      transform: rotate(-55deg);
+    }
+    #linght::after {
+      position: absolute;
+      top: -13px;
+      left: -11px;
+      content: "";
+      width: 0;
+      height: 0;
+      border-color: transparent;
+      border-style: solid;
+      border-width: 10px;
+      border-top: 10px solid #fff;
+      transform: rotate(180deg);
+      border-radius: 4px;
+    }
+    /* 文字 */
+    #TA {
+      float: right;
+      line-height: 50px;
+      font-size: 15px;
+      color: #fff;
+    }
+    #TA-con:hover {
+      background-color: #ff6b9a;
+    }
+ 
+    /* 创建图形容器 */
+    #tube-con {
+      width: 157px;
+      height: 55px;
+      position: absolute;
+      right: -5px;
+      top: 15px;
+    }
+    /* 对svg图形设置宽高 */
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+    /* 创建一个蒙版 宽度为0，当我hover充电框的时候，宽度展开 */
+    #mask {
+      width: 0px;
+      height: 100%;
+      overflow: hidden;
+      position: absolute;
+      top: 0;
+      left: 0;
+      transition:all 0.5s;
+    }
+    /* 对蒙版的sbg单独设置宽高，保证宽度高低有一个固定值而不是百分比 */
+    #mask svg {
+      width: 157px;
+      height: 55px;
+    }
+    /* 对充电框hover的时候开始动画，将粉色线条铺开 */
+    #TA-con:hover+#tube-con>#mask{
+      width:157px;
+    }
+    /* 对充电框hover的时候开始动画，添加黄色快速移动的动画 */
+    #TA-con:hover+#tube-con>#orange-mask{
+      animation: move1 0.5s linear 0.2s infinite;
+    }
+    #TA-con:hover+#tube-con>#orange-mask svg{
+      animation: movetwo 0.5s linear 0.2s infinite;
+    }
+    /* 创建黄色移动的蒙版 */
+    #orange-mask{
+      width: 18px;
+      height: 100%;
+      overflow: hidden;
+      position:absolute;
+      left:-15px;
+      top:0px;
+    }
+    /* 创建黄色移动的内容 */
+    #orange-mask svg {
+      position: absolute;;
+      top:0;
+      left:15px;
+      width: 157px;
+      height: 55px;
+    }
+    @keyframes move1 {
+      0%{
+        left:-15px;
+      }
+      100%{
+        left:140px;
+      }
+    }
+    @keyframes movetwo {
+      0%{
+        left:15px;
+      }
+      100%{
+        left:-140px;
+      }
+    }
+    #people{
+      position:absolute;
+      right:10px;
+      top:8px;
+      font-size:12px;
+      font-family:"雅黑";
+      color:#aaa;
+    }
+    #people>b{
+      color:#777;
+    }
+  </style>
+</head>
+<body>
+    <script>
+    var d1 = new Date();
+    var d2 = new Date('2020-12-31 23:59:59');
+    s = (d2 - d1);
+    $(document).ready(function() {
+	$('#counter').countdown({
+		timestamp : (new Date()).getTime() + s
+	});
+    });
+</script>
+	
+	<div class="content clearfix">
+	<!--	<div class="content2"> 			
+			<a href="../">	
+               <img src="plugin/logo.jpg" width="15px" height="15px" />			
+			</a>
+		</div>	-->
+<div class="header">
+  <details>
+    <summary> 
+	<h1>
+	<span id="time">当前时间</span>
+       <script>setInterval("time.innerHTML=new Date().toLocaleString()+' 周'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+   </script><br/>			
+	2021年元旦倒计时: </h1>
+	</summary> 
+	<hr style="height:1px;width:250px;border:none;border-top:1px dashed #ffffff;"/>
+	 <script>
+		function sj(a) {
+		var dd= new Date();
+		dd.setDate(dd.getDate()+a);//获取AddDayCount天后的日期
+		var y = dd.getFullYear();
+		var m = dd.getMonth()+1;//获取当前月份的日期
+		var d = dd.getDate();
+		return y+"年"+m+"月"+d+"日";
+		}
+	document.write("前天："+sj(-2));
+	document.write("<br />昨天："+sj(-1));
+	document.write("<br /><b><u>今天</u></b>："+sj(0));
+	document.write("<br />明天："+sj(1));
+	document.write("<br />后天："+sj(2));
+	document.write("<br />大后天："+sj(3)+"<br/>");
+	</script>
+	<hr style="height:1px;width:250px;border:none;border-top:1px dashed #ffffff;"/>
+	<center>
+			 <!-- 引用：CSS心形加载的动画源码的实现 --> 
+              <iframe frameborder="0" scrolling="no" src="/tools/xin.html" width="250px" height="200px"></iframe>
+		</center>
+  </details>
+</div>	
+		<div class="content2">
+			<div class="timer_wrap">
+				<div id="counter"> </div>		
+			</div>
+		</div>
+		
+		<div class="content2">		
+		  <div id="con">
+    <div id="TA-con">
+      <div id="text-con">
+        <div id="linght"></div>
+        <div id="TA">元旦快乐</div>
+      </div>
+    </div>
+    <div id="tube-con">
+      <svg viewBox="0 0 1028 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M1 77H234.226L307.006 24H790" stroke="#e5e9ef" stroke-width="20" />
+        <path d="M0 140H233.035L329.72 71H1028" stroke="#e5e9ef" stroke-width="20" />
+        <path d="M1 255H234.226L307.006 307H790" stroke="#e5e9ef" stroke-width="20" />
+        <path d="M0 305H233.035L329.72 375H1028" stroke="#e5e9ef" stroke-width="20" />
+        <rect y="186" width="236" height="24" fill="#e5e9ef" />
+        <ellipse cx="790" cy="25.5" rx="25" ry="25.5" fill="#e5e9ef" />
+        <circle r="14" transform="matrix(1 0 0 -1 790 25)" fill="white" />
+        <ellipse cx="790" cy="307.5" rx="25" ry="25.5" fill="#e5e9ef" />
+        <circle r="14" transform="matrix(1 0 0 -1 790 308)" fill="white" />
+      </svg>
+      <div id="mask">
+        <svg viewBox="0 0 1028 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M1 77H234.226L307.006 24H790" stroke="#f25d8e" stroke-width="20" />
+          <path d="M0 140H233.035L329.72 71H1028" stroke="#f25d8e" stroke-width="20" />
+          <path d="M1 255H234.226L307.006 307H790" stroke="#f25d8e" stroke-width="20" />
+          <path d="M0 305H233.035L329.72 375H1028" stroke="#f25d8e" stroke-width="20" />
+          <rect y="186" width="236" height="24" fill="#f25d8e" />
+          <ellipse cx="790" cy="25.5" rx="25" ry="25.5" fill="#f25d8e" />
+          <circle r="14" transform="matrix(1 0 0 -1 790 25)" fill="white" />
+          <ellipse cx="790" cy="307.5" rx="25" ry="25.5" fill="#f25d8e" />
+          <circle r="14" transform="matrix(1 0 0 -1 790 308)" fill="white" />
+        </svg>
+      </div>
+      <div id="orange-mask" >
+        <svg viewBox="0 0 1028 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M1 77H234.226L307.006 24H790" stroke="#ffd52b" stroke-width="20" />
+          <path d="M0 140H233.035L329.72 71H1028" stroke="#ffd52b" stroke-width="20" />
+          <path d="M1 255H234.226L307.006 307H790" stroke="#ffd52b" stroke-width="20" />
+          <path d="M0 305H233.035L329.72 375H1028" stroke="#ffd52b" stroke-width="20" />
+          <rect y="186" width="236" height="24" fill="#ffd52b" />
+          <ellipse cx="790" cy="25.5" rx="25" ry="25.5" fill="#ffd52b" />
+          <circle r="14" transform="matrix(1 0 0 -1 790 25)" fill="white" />
+          <ellipse cx="790" cy="307.5" rx="25" ry="25.5" fill="#ffd52b" />
+          <circle r="14" transform="matrix(1 0 0 -1 790 308)" fill="white" />
+        </svg>
+      </div>
+      <p id="people"><br/>共 <b><script>// <![CDATA[
+                 document.write(new Date().getFullYear());
+                 // ]]></script></b> 人</p>
+    </div>
+  </div>
+		</div>
+	</div>
+<div class="footer">
+	<div class=foot>
+       <audio autoplay="autoplay" loop="loop"> 
+       <source src="../Sea.mp3" type="audio/mpeg">
+      </audio>
+
+	<p>Copyright © <script>// <![CDATA[
+                 document.write(new Date().getFullYear());
+                 // ]]></script>  Choong.Net</p>
+</div></div>
+</body>
+</html>
+<!--Powered by https://share.choong.net/-->
