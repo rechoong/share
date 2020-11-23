@@ -71,7 +71,7 @@
   &lt;meta charset=&quot;UTF-8&quot;&gt;
   &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
   &lt;title&gt;《都要脱钩了，怎么每次还大惊小怪？》&lt;/title&gt;
-  &lt;link rel="icon" href="/images/share.jpg" > 
+  &lt;link rel="icon" href="/images/share.png" > 
 &lt;/head&gt;
 &lt;body bgcolor="#1B1B1B" text="#000000"&gt;
   &lt;p style="text-align:center"&gt;
