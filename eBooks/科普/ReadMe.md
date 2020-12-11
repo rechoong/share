@@ -1,31 +1,33 @@
-<details><summary>
-<h1>科普</h1> 
-<blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote>    
-这是【编程随想电子图书馆】【科普】目录下的 BT Sync 密钥。<br/>
+ # 科普:
+ <details><summary>
+这是【编程随想电子图书馆】【科普】目录下的 BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> 。<br/>
 通过这个密钥，你可以用 BT Sync 自动同步到目录包含的【所有】电子书。<br/>
 时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。<br/>
  </summary> 
  <table>
    <tr>
-        <td><img src="https://share.choong.net/eBooks/科普/地球科学/环境科学/Quick-QR.png" title="扫码浏览访问： 蕾切尔·卡森：Silent Spring@2002 (40周年纪念版).pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/数学/(其它)/Quick-QR.png" title="扫码浏览访问：乔治·波利亚：怎样解题——数学思维的新方法@1982 (第2版).pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/数学/基础理论/Quick-QR.png" title="扫码浏览访问：欧内斯特·内格尔 & 詹姆斯·纽曼：哥德尔证明@1991 (扫描版).pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/数学/数学史/Quick-QR1.png" title="扫码浏览访问：莫里斯·克莱因：数学——确定性的丧失@1997.pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/数学/数学史/Quick-QR2.png" title="扫码浏览访问：西蒙·辛格：费马大定理——一个困惑了世间智者358年的谜@2013.epub" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/物理学/(其它)/Quick-QR.png" title="扫码浏览访问：保罗·戴维斯：上帝与新物理学@1992.pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/物理学/基础理论/Quick-QR1.png" title="扫码浏览访问：乔治·伽莫夫：物理世界奇遇记@2008 (精校版).pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/物理学/基础理论/Quick-QR2.png" title="扫码浏览访问：方励之 & 褚耀泉：从牛顿定律到爱因斯坦相对论@1987 (第2版 精校版).pdf" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/物理学/天体物理学/Quick-QR1.png" title="扫码浏览访问《保罗·戴维斯：宇宙的最后三分钟——关于宇宙归宿的最新观念@1995.pdf》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/物理学/天体物理学/Quick-QR2.png" title="扫码浏览访问《史蒂文·温伯格：最初三分钟——关于宇宙起源的现代观点@2000 (扫描版).pdf》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/物理学/物理学史/Quick-QR.png" title="扫码浏览访问《曹天元：上帝掷骰子吗——量子物理史话.epub》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/生物学/分子生物学/Quick-QR.png" title="扫码浏览访问《埃尔温·薛定谔：生命是什么@2003 (扫描版).pdf》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/生物学/古生物学/Quick-QR.png" title="扫码浏览访问《理查德·利基：人类的起源@1995.pdf》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/生物学/演化生物学/Quick-QR1.png" title="扫码浏览访问《爱德华·威尔逊：社会生物学——新的综合 (节译本).html.zip》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/生物学/演化生物学/Quick-QR2.png" title="扫码浏览访问《理查德·道金斯：自私的基因@2018 (40周年纪念版).mobi》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/系统科学/复杂系统论/Quick-QR1.png" title="扫码浏览访问《约翰·霍兰德：隐秩序——适应性造就复杂性@2000 (扫描版).pdf》" height="150px" width="150px"></td>
-        <td><img src="https://share.choong.net/eBooks/科普/系统科学/复杂系统论/Quick-QR2.png" title="扫码浏览访问《默里·盖尔曼：夸克与美洲豹——简单与复杂中的探险@1997.pdf》" height="150px" width="150px"></td>
+        <td>
+		<img src="https://share.choong.net/eBooks/科普/地球科学/环境科学/Quick-QR.png" title="扫码浏览访问： 蕾切尔·卡森：Silent Spring@2002 (40周年纪念版).pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/数学/(其它)/Quick-QR.png" title="扫码浏览访问：乔治·波利亚：怎样解题——数学思维的新方法@1982 (第2版).pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/数学/基础理论/Quick-QR.png" title="扫码浏览访问：欧内斯特·内格尔 & 詹姆斯·纽曼：哥德尔证明@1991 (扫描版).pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/数学/数学史/Quick-QR1.png" title="扫码浏览访问：莫里斯·克莱因：数学——确定性的丧失@1997.pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/数学/数学史/Quick-QR2.png" title="扫码浏览访问：西蒙·辛格：费马大定理——一个困惑了世间智者358年的谜@2013.epub" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/物理学/(其它)/Quick-QR.png" title="扫码浏览访问：保罗·戴维斯：上帝与新物理学@1992.pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/物理学/基础理论/Quick-QR1.png" title="扫码浏览访问：乔治·伽莫夫：物理世界奇遇记@2008 (精校版).pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/物理学/基础理论/Quick-QR2.png" title="扫码浏览访问：方励之 & 褚耀泉：从牛顿定律到爱因斯坦相对论@1987 (第2版 精校版).pdf" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/物理学/天体物理学/Quick-QR1.png" title="扫码浏览访问《保罗·戴维斯：宇宙的最后三分钟——关于宇宙归宿的最新观念@1995.pdf》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/物理学/天体物理学/Quick-QR2.png" title="扫码浏览访问《史蒂文·温伯格：最初三分钟——关于宇宙起源的现代观点@2000 (扫描版).pdf》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/物理学/物理学史/Quick-QR.png" title="扫码浏览访问《曹天元：上帝掷骰子吗——量子物理史话.epub》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/生物学/分子生物学/Quick-QR.png" title="扫码浏览访问《埃尔温·薛定谔：生命是什么@2003 (扫描版).pdf》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/生物学/古生物学/Quick-QR.png" title="扫码浏览访问《理查德·利基：人类的起源@1995.pdf》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/生物学/演化生物学/Quick-QR1.png" title="扫码浏览访问《爱德华·威尔逊：社会生物学——新的综合 (节译本).html.zip》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/生物学/演化生物学/Quick-QR2.png" title="扫码浏览访问《理查德·道金斯：自私的基因@2018 (40周年纪念版).mobi》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/系统科学/复杂系统论/Quick-QR1.png" title="扫码浏览访问《约翰·霍兰德：隐秩序——适应性造就复杂性@2000 (扫描版).pdf》" height="150px" width="150px">
+        <img src="https://share.choong.net/eBooks/科普/系统科学/复杂系统论/Quick-QR2.png" title="扫码浏览访问《默里·盖尔曼：夸克与美洲豹——简单与复杂中的探险@1997.pdf》" height="150px" width="150px">
+		</td>
    </tr></table>
 </details>
+
 文件夹 PATH 列表
 -----------------
 ├─地球科学><br/>
