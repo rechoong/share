@@ -1,9 +1,9 @@
  # 科普:
  <details><summary>
-这是【编程随想电子图书馆】【科普】目录下的 BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> 。<br/>
+这是【编程随想电子图书馆】【科普】目录下的 BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> <br/>
+ </summary> 
 通过这个密钥，你可以用 BT Sync 自动同步到目录包含的【所有】电子书。<br/>
 时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。<br/>
- </summary> 
  <table>
    <tr>
         <td>
