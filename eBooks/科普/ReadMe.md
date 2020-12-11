@@ -1,13 +1,13 @@
  # 科普:
- <details><summary>
-这是【编程随想电子图书馆】【科普】目录下的 BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> <br/>
+ <details><summary>这是【编程随想电子图书馆】【科普】目录下的 BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> 
  </summary> 
 通过这个密钥，你可以用 BT Sync 自动同步到目录包含的【所有】电子书。<br/>
 时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。<br/>
  <table>
    <tr>
         <td>
-		<img src="https://share.choong.net/eBooks/科普/地球科学/环境科学/Quick-QR.png" title="扫码浏览访问： 蕾切尔·卡森：Silent Spring@2002 (40周年纪念版).pdf" height="150px" width="150px">
+	 <img src="https://share.choong.net/eBooks/科普/Quick-QR.png" title="扫码浏览访问：【科普】GitHub库" height="150px" width="150px">
+	 <img src="https://share.choong.net/eBooks/科普/地球科学/环境科学/Quick-QR.png" title="扫码浏览访问： 蕾切尔·卡森：Silent Spring@2002 (40周年纪念版).pdf" height="150px" width="150px">
         <img src="https://share.choong.net/eBooks/科普/数学/(其它)/Quick-QR.png" title="扫码浏览访问：乔治·波利亚：怎样解题——数学思维的新方法@1982 (第2版).pdf" height="150px" width="150px">
         <img src="https://share.choong.net/eBooks/科普/数学/基础理论/Quick-QR.png" title="扫码浏览访问：欧内斯特·内格尔 & 詹姆斯·纽曼：哥德尔证明@1991 (扫描版).pdf" height="150px" width="150px">
         <img src="https://share.choong.net/eBooks/科普/数学/数学史/Quick-QR1.png" title="扫码浏览访问：莫里斯·克莱因：数学——确定性的丧失@1997.pdf" height="150px" width="150px">
@@ -28,7 +28,7 @@
    </tr></table>
 </details>
 
-文件夹 PATH 列表
+# 文件夹 PATH 列表：
 -----------------
 ├─地球科学><br/>
 │  └─环境科学>><br/>
