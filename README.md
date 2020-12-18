@@ -83,3 +83,5 @@
 &lt;/html&gt;
 </pre>
 </table> </details>
+
+https://www.xunlei.com/favicon.ico
