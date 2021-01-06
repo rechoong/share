@@ -11,7 +11,8 @@
      清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>电子图书馆</a>】所有目录的 <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
 	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/> <a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt" style="color:#990066;text-decoration:none;">BT Sync 密钥</a>。)
 
-> 通过这几个密钥，你可以用 BT Sync 自动同步到每一个目录包含的【所有】电子书。
+> 通过这几个密钥，你可以用 <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
+	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync</a> 自动同步到每一个目录包含的【所有】电子书。
 
 >  <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。
 
