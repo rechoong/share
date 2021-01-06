@@ -17,7 +17,7 @@
 >  <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，<a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
 	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync</a> 会自动把【新增的】电子书同步到你的硬盘。
 
-```
+<blockquote>
 BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD    政治
 
 BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB    心理学
@@ -42,8 +42,7 @@ BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE    IT
 
 BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    <a href="https://github.com/inchoong/share/tree/share-2020/eBooks/%E7%A7%91%E6%99%AE" style="color:#990066;text-decoration:none;">科普</a>
 
-
-```
+</blockquote>
 
 关于 <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
 	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync</a> 的扫盲教程，参见以下链接
