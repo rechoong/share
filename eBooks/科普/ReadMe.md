@@ -1,9 +1,9 @@
  # 科普:
  <details><summary>这是【
-	<a href="https://program-think.blogspot.com/" title="🔗 编程随想的博客 | 主站点 (BlogSpot)  -- 需要“科学上网”方式访问GFW ">
+	<a href="https://program-think.blogspot.com/" title="🔗 编程随想的博客 | 主站点 (BlogSpot)  -- 需要“科学上网”方式访问GFW " style="color:#990066;text-decoration:none;">
 		<img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>编程随想</a>	
 		<a href="https://github.com/programthink/books" title="【编程随想电子图书馆】【所有电子书】的清单。
-     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]"><img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>电子图书馆</a>】【科普】目录下的<a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think">
+     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>电子图书馆</a>】【科普】目录下的<a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
 	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync 密钥</a>：   <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> 
  </summary> 
 通过这个密钥，你可以用 BT Sync 自动同步到目录包含的【所有】电子书。<br/>
