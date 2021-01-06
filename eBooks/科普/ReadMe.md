@@ -1,11 +1,10 @@
  # 科普:
  <details><summary>这是【
 	<a href="https://program-think.blogspot.com/" title="🔗 编程随想的博客 | 主站点 (BlogSpot)  -- 需要“科学上网”方式访问GFW ">
-		<img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/> 编程随想</a>
-	<a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think">
-	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/></a>
+		<img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/> 编程随想</a>	
 		<a href="https://github.com/programthink/books" title="【编程随想电子图书馆】【所有电子书】的清单。
-     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]">电子图书馆</a>】【科普】目录下的 BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> 
+     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]">电子图书馆</a>】【科普】目录下的<a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think">
+	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/></a> BT Sync 密钥  <blockquote>BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED</blockquote> 
  </summary> 
 通过这个密钥，你可以用 BT Sync 自动同步到目录包含的【所有】电子书。<br/>
 时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。<br/>
