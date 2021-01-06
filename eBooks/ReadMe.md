@@ -44,7 +44,8 @@ BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    科普
 
 ```
 
-关于 BT Sync 的扫盲教程，参见以下链接
+关于 <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
+	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync</a> 的扫盲教程，参见以下链接
 
 https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html
 
