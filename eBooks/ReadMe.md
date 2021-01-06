@@ -4,7 +4,12 @@
 > ( @[Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
 >  [编程随想](https://github.com/programthink/books)-[收藏的电子书清单（多个学科，含下载链接）](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/books.wiki) )
  
-- 关于【[**BTSync**](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】 ( 以下是【编程随想电子图书馆】所有目录的 [**BT Sync 密钥**](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt)。)
+- 关于【[**BTSync**](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】 ( 以下是【
+	<a href="https://program-think.blogspot.com/" title="🔗 编程随想的博客 | 主站点 (BlogSpot)  -- 需要“科学上网”方式访问GFW " style="color:#990066;text-decoration:none;">
+		<img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>编程随想</a>	
+		<a href="https://github.com/programthink/books" title="【编程随想电子图书馆】【所有电子书】的清单。
+     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>电子图书馆</a>】所有目录的 <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
+	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/> <a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt" style="color:#990066;text-decoration:none;">BT Sync 密钥</a>。)
 
 > 通过这几个密钥，你可以用 BT Sync 自动同步到每一个目录包含的【所有】电子书。
 
@@ -32,6 +37,8 @@ BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    科普
 BMWWZALG4P56LREF47EE2WSWHZEM4E6BL    军事
 
 BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE    IT
+
+BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    科普
 
 ```
 
