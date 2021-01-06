@@ -1,7 +1,7 @@
 ﻿- [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://program-think.blogspot.com/) :
  <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**的博客](https://program-think.blogspot.com/)（ 官网 https://program-think.blogspot.com/ ）
  
-> ( @[Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
+> ( @[Github](https://github.com/programthink) : <img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>[编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
 >  [编程随想](https://github.com/programthink/books)-[收藏的电子书清单（多个学科，含下载链接）](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/books.wiki) )
  
 - 关于【[**BTSync**](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】 ( 以下是【
@@ -61,7 +61,7 @@ BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    翻墙软件（包含常见的翻墙软件�
 B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电子书制作脚本”
 ```
 
-> 【网友分享版】 [**编程随想**的博客](https://program-think.blogspot.com/)
+> <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**的博客](https://program-think.blogspot.com/) 【网友分享版】 
 > 
 > - posclegom/programthink: for 热心读者
 > https://github.com/posclegom/programthink
