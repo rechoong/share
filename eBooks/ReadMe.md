@@ -14,7 +14,8 @@
 > 通过这几个密钥，你可以用 <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
 	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync</a> 自动同步到每一个目录包含的【所有】电子书。
 
->  <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。
+>  <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，<a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;">
+	 <img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/>BT Sync</a> 会自动把【新增的】电子书同步到你的硬盘。
 
 ```
 BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD    政治
