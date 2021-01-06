@@ -25,6 +25,7 @@
         <img src="https://share.choong.net/eBooks/科普/系统科学/复杂系统论/Quick-QR1.png" title="扫码浏览访问《约翰·霍兰德：隐秩序——适应性造就复杂性@2000 (扫描版).pdf》" height="150px" width="150px">
         <img src="https://share.choong.net/eBooks/科普/系统科学/复杂系统论/Quick-QR2.png" title="扫码浏览访问《默里·盖尔曼：夸克与美洲豹——简单与复杂中的探险@1997.pdf》" height="150px" width="150px">
 	<img src="https://share.choong.net/eBooks/科普/(总论)/Quick-QR1.png" title="扫码浏览访问《卡尔·萨根：魔鬼出没的世界——科学，照亮黑暗的蜡烛@1998.pdf》" height="150px" width="150px">
+	<img src="https://share.choong.net/eBooks/科普/(其它)/Quick-QR1.png" title="扫码浏览访问《乔治·伽莫夫：从一到无穷大——科学中的事实和臆测@2002 (精校版).pdf》" height="150px" width="150px">
 		</td>
    </tr></table>
 </details>
