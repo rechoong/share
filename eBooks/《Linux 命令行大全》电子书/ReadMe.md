@@ -6,9 +6,7 @@
 
 <blockquote>
   
-  <a href="
-https://share.choong.net/eBooks/%E3%80%8ALinux%20%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%A4%A7%E5%85%A8%E3%80%8B%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%B8%AD%E6%96%87%E7%89%88.pdf" title=" Linux 命令行教程：《The Linux Command Line》，中文译名：《Linux 命令行大全》|在线阅读">
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/uDRkMWLia28gWesZEgtWQgs7ibSoBlEtepQ0mBFRn9kMMpUKc6g7mcEw47suSOOTPCz44HYOsRcJ1QKORJVnDIuQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" height="300" width="300" /></a>
+  <a href="https://share.choong.net/eBooks/%E3%80%8ALinux%20%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%A4%A7%E5%85%A8%E3%80%8B%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%B8%AD%E6%96%87%E7%89%88.pdf" title=" Linux 命令行教程：《The Linux Command Line》，中文译名：《Linux 命令行大全》|在线阅读"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/uDRkMWLia28gWesZEgtWQgs7ibSoBlEtepQ0mBFRn9kMMpUKc6g7mcEw47suSOOTPCz44HYOsRcJ1QKORJVnDIuQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" height="300" width="300" /></a>
   
 英文原版：http://linuxcommand.org/tlcl.php <br>
 
@@ -39,7 +37,7 @@ PDF 链接：https://pan.baidu.com/s/1fzFznNK6GnSuVb3dQQBphQ  <br>
 
     第二部分：命令行的基本语言 Shell
 
-     第三部分：熟悉 Linux 的环境配置与文件处理
+    第三部分：熟悉 Linux 的环境配置与文件处理
 
     第四部分：命令行处理真实场景的任务
 
