@@ -10,7 +10,8 @@
   
 英文原版：http://linuxcommand.org/tlcl.php <br>
 
-中文翻译：https://www.kancloud.cn/thinkphp/linux-command-line/39431<br>
+中文翻译：https://www.kancloud.cn/thinkphp/linux-command-line/39431<br> 
+<a href="https://www.kancloud.cn/thinkphp/linux-command-line/" title="The Linux Command Line 《Linux 命令行大全》中文版 · 看云">The Linux Command Line 《Linux 命令行大全》中文版 · 看云</a><br><br>
 
 PDF 链接：https://pan.baidu.com/s/1fzFznNK6GnSuVb3dQQBphQ  <br>
 提取码：5cxz<br>
