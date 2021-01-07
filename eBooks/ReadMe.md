@@ -35,13 +35,11 @@ BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK    文艺
 
 B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF    哲学
 
-BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    科普
+BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    <a href="https://github.com/inchoong/share/tree/share-2020/eBooks/%E7%A7%91%E6%99%AE" style="color:#990066;text-decoration:none;">科普</a>
 
 BMWWZALG4P56LREF47EE2WSWHZEM4E6BL    军事
 
 BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE    IT
-
-BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED    <a href="https://github.com/inchoong/share/tree/share-2020/eBooks/%E7%A7%91%E6%99%AE" style="color:#990066;text-decoration:none;">科普</a>
 
 </blockquote>
 
