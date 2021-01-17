@@ -2,5 +2,5 @@
 
 > 放入下面的代码:
 ```
-<iframe src="https://go.choong.net/Tools/shizhong/" width="310" height="310"></iframe>
+<iframe src="https://share.choong.net/tools/shizhong/" width="310" height="310"></iframe>
 ```
