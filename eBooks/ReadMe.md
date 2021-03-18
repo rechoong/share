@@ -1,4 +1,8 @@
-﻿- [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://program-think.blogspot.com/) :
+
+<a text-align="center" href="https://share.choong.net/eBooks/boo.pdf" title="（勿外传）私域流量运营笔记-波波来了内部资料.pdf">
+<img class="bottom" src="https://share.choong.net/eBooks/boo.jpg" color="#f60c3e" height="50%" width="50%" /><br>（勿外传）私域流量运营笔记-波波来了内部资料.pdf</a>
+
+- [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://program-think.blogspot.com/) :
  <img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>[**编程随想**的博客](https://program-think.blogspot.com/)（ 官网 https://program-think.blogspot.com/ ）
  
 > ( @[Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)<img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
