@@ -91,66 +91,12 @@
 	   <a href="https://ultrapre.github.io/2020/02/02/2020-02-02-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E6%AF%94%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%B6%E4%BD%9C/" title="双语对比版电子书制作">谷歌翻译模式，鼠标自动滚轮完成:</a></b>
 </summary>
 <table> 	
-<p>全部的代码</p>
-<div class="jb51code">
+<p>代码</p>
 <pre class="brush:xhtml;">
-&lt;table style="width: 100%"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="width: 50%"&gt;　11111&lt;/td&gt;&lt;td style="width: 50%"&gt;22222&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td style="width: 50%"&gt;　ennnnnn&lt;/td&gt;&lt;td style="width: 50%"&gt;红红火火恍恍惚惚&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">table</span> <span class="attr">style</span>=<span class="string">"width: 100%"</span>&gt;</span><span class="tag">&lt;<span class="name">tbody</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">style</span>=<span class="string">"width: 50%"</span>&gt;</span>　11111<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">style</span>=<span class="string">"width: 50%"</span>&gt;</span>22222<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">style</span>=<span class="string">"width: 50%"</span>&gt;</span>　ennnnnn<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">style</span>=<span class="string">"width: 50%"</span>&gt;</span>红红火火恍恍惚惚<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">tbody</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure>
 </pre>
 <p>css自动布置置中，然后分栏显示，左边英文，右边中文。</p>
-<pre>
-def findstruct(lines):
-    i = 0
-    head = []
-    body = []
-    ends = []
-    tmpflag = 0
-    for line in lines:
-        if tmpflag == 0:
-            head += [line]
-        elif tmpflag == 1:
-            body += [line]
-        elif tmpflag == 2:
-            ends += [line]
-	    <br>	    
-        if "<body" in line and tmpflag == 0:
-            tmpflag = 1
-        if i == len(lines)-2 and tmpflag == 1:
-            tmpflag = 2
- <br>
-        i+=1
-    return [head,body,ends]
- <br>
-def pairlist(lis1,lis2):
-    i = 0
-    tmplis = []
-    for item in lis1:
-        tmplis.append([item,lis2[i]])
-        i+=1
-    return tmplis
- <br>
-def builddouble(lines1,lines2):
-    [head1, body1, ends1] = findstruct(lines1)
-    [head2, body2, ends2] = findstruct(lines2)
-    if len(body1) != len(body2):
-        exit()
-    i = 0
-    tmplis = pairlist(body1, body2)
-    body3 = []
-    for item in tmplis:
-        if "class=\"img\"" not in item[0] and "class=\"ima" not in item[0]:
-            body3.append("<tr><td>" + item[0].replace("\n", "") + "</td><td>" + item[1].replace("\n", "") + "</td></tr>\n")
-        else:
-            body3.append("<tr><td colspan=\"2\">" + item[1].replace("\n", "") + "<td></tr>\n")
- <br>
-    return head2+["<table><tbody><tr><th style=\"width: 50%;\" >\n"]+body3+ends2
- <br>
-srch1 = "srcen.html"
-srch2 = "srczh.html"
-lines1 = open(srch1,encoding="utf-8").readlines()
-lines2 = open(srch2,encoding="utf-8").readlines()
-open("dst.html","w",encoding="utf-8").writelines(builddouble(lines1,lines2))
+	</pre>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">findstruct</span><span class="params">(lines)</span>:</span></span><br><span class="line">    i = <span class="number">0</span></span><br><span class="line">    head = []</span><br><span class="line">    body = []</span><br><span class="line">    ends = []</span><br><span class="line">    tmpflag = <span class="number">0</span></span><br><span class="line">    <span class="keyword">for</span> line <span class="keyword">in</span> lines:</span><br><span class="line">        <span class="keyword">if</span> tmpflag == <span class="number">0</span>:</span><br><span class="line">            head += [line]</span><br><span class="line">        <span class="keyword">elif</span> tmpflag == <span class="number">1</span>:</span><br><span class="line">            body += [line]</span><br><span class="line">        <span class="keyword">elif</span> tmpflag == <span class="number">2</span>:</span><br><span class="line">            ends += [line]</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> <span class="string">"&lt;body"</span> <span class="keyword">in</span> line <span class="keyword">and</span> tmpflag == <span class="number">0</span>:</span><br><span class="line">            tmpflag = <span class="number">1</span></span><br><span class="line">        <span class="keyword">if</span> i == len(lines)<span class="number">-2</span> <span class="keyword">and</span> tmpflag == <span class="number">1</span>:</span><br><span class="line">            tmpflag = <span class="number">2</span></span><br><span class="line"></span><br><span class="line">        i+=<span class="number">1</span></span><br><span class="line">    <span class="keyword">return</span> [head,body,ends]</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">pairlist</span><span class="params">(lis1,lis2)</span>:</span></span><br><span class="line">    i = <span class="number">0</span></span><br><span class="line">    tmplis = []</span><br><span class="line">    <span class="keyword">for</span> item <span class="keyword">in</span> lis1:</span><br><span class="line">        tmplis.append([item,lis2[i]])</span><br><span class="line">        i+=<span class="number">1</span></span><br><span class="line">    <span class="keyword">return</span> tmplis</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">builddouble</span><span class="params">(lines1,lines2)</span>:</span></span><br><span class="line">    [head1, body1, ends1] = findstruct(lines1)</span><br><span class="line">    [head2, body2, ends2] = findstruct(lines2)</span><br><span class="line">    <span class="keyword">if</span> len(body1) != len(body2):</span><br><span class="line">        exit()</span><br><span class="line">    i = <span class="number">0</span></span><br><span class="line">    tmplis = pairlist(body1, body2)</span><br><span class="line">    body3 = []</span><br><span class="line">    <span class="keyword">for</span> item <span class="keyword">in</span> tmplis:</span><br><span class="line">        <span class="keyword">if</span> <span class="string">"class=\"img\""</span> <span class="keyword">not</span> <span class="keyword">in</span> item[<span class="number">0</span>] <span class="keyword">and</span> <span class="string">"class=\"ima"</span> <span class="keyword">not</span> <span class="keyword">in</span> item[<span class="number">0</span>]:</span><br><span class="line">            body3.append(<span class="string">"&lt;tr&gt;&lt;td&gt;"</span> + item[<span class="number">0</span>].replace(<span class="string">"\n"</span>, <span class="string">""</span>) + <span class="string">"&lt;/td&gt;&lt;td&gt;"</span> + item[<span class="number">1</span>].replace(<span class="string">"\n"</span>, <span class="string">""</span>) + <span class="string">"&lt;/td&gt;&lt;/tr&gt;\n"</span>)</span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            body3.append(<span class="string">"&lt;tr&gt;&lt;td colspan=\"2\"&gt;"</span> + item[<span class="number">1</span>].replace(<span class="string">"\n"</span>, <span class="string">""</span>) + <span class="string">"&lt;td&gt;&lt;/tr&gt;\n"</span>)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> head2+[<span class="string">"&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=\"width: 50%;\" &gt;\n"</span>]+body3+ends2</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">srch1 = <span class="string">"srcen.html"</span></span><br><span class="line">srch2 = <span class="string">"srczh.html"</span></span><br><span class="line">lines1 = open(srch1,encoding=<span class="string">"utf-8"</span>).readlines()</span><br><span class="line">lines2 = open(srch2,encoding=<span class="string">"utf-8"</span>).readlines()</span><br><span class="line">open(<span class="string">"dst.html"</span>,<span class="string">"w"</span>,encoding=<span class="string">"utf-8"</span>).writelines(builddouble(lines1,lines2))</span><br></pre></td></tr></table></figure>
 </pre>
 </table> </details>
