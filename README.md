@@ -88,7 +88,7 @@
    <summary>  <b>
 <a href="https://share.choong.net/docs/2021-2-2.html">代码</a>：
 《<a href="https://ultrapre.github.io/2020/02/02/2020-02-02-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E6%AF%94%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%B6%E4%BD%9C/" title="双语对比版电子书制作">双语对比版电子书制作</a>》<br/>
-	   <a href="https://www.jb51.net/web/740948.html" title="HTML中图片不存在显示默认图片的方法示例_HTML/Xhtml_网页制作_脚本之家">HTML中图片不存在显示默认图片的方法示例</a></b>
+	   <a href="https://ultrapre.github.io/2020/02/02/2020-02-02-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E6%AF%94%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%B6%E4%BD%9C/" title="双语对比版电子书制作">谷歌翻译模式，鼠标自动滚轮完成。</a></b>
 </summary>
 <table> 	
 <p>全部的代码</p>
