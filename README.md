@@ -88,7 +88,7 @@
    <summary>  <b>
 <a href="https://share.choong.net/docs/2021-2-2.html">代码</a>：
 《<a href="https://ultrapre.github.io/2020/02/02/2020-02-02-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E6%AF%94%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%B6%E4%BD%9C/" title="双语对比版电子书制作">双语对比版电子书制作</a>》<br/>
-	   <a href="https://ultrapre.github.io/2020/02/02/2020-02-02-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E6%AF%94%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%B6%E4%BD%9C/" title="双语对比版电子书制作">谷歌翻译模式，鼠标自动滚轮完成。</a></b>
+	   <a href="https://ultrapre.github.io/2020/02/02/2020-02-02-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E6%AF%94%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6%E5%88%B6%E4%BD%9C/" title="双语对比版电子书制作">谷歌翻译模式，鼠标自动滚轮完成:</a></b>
 </summary>
 <table> 	
 <p>全部的代码</p>
@@ -98,5 +98,60 @@
 &lt;tr&gt;&lt;td style="width: 50%"&gt;　11111&lt;/td&gt;&lt;td style="width: 50%"&gt;22222&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td style="width: 50%"&gt;　ennnnnn&lt;/td&gt;&lt;td style="width: 50%"&gt;红红火火恍恍惚惚&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
+</pre>
+<p>css自动布置置中，然后分栏显示，左边英文，右边中文。</p>
+<pre>
+def findstruct(lines):
+    i = 0
+    head = []
+    body = []
+    ends = []
+    tmpflag = 0
+    for line in lines:
+        if tmpflag == 0:
+            head += [line]
+        elif tmpflag == 1:
+            body += [line]
+        elif tmpflag == 2:
+            ends += [line]
+
+        if "<body" in line and tmpflag == 0:
+            tmpflag = 1
+        if i == len(lines)-2 and tmpflag == 1:
+            tmpflag = 2
+
+        i+=1
+    return [head,body,ends]
+
+def pairlist(lis1,lis2):
+    i = 0
+    tmplis = []
+    for item in lis1:
+        tmplis.append([item,lis2[i]])
+        i+=1
+    return tmplis
+
+def builddouble(lines1,lines2):
+    [head1, body1, ends1] = findstruct(lines1)
+    [head2, body2, ends2] = findstruct(lines2)
+    if len(body1) != len(body2):
+        exit()
+    i = 0
+    tmplis = pairlist(body1, body2)
+    body3 = []
+    for item in tmplis:
+        if "class=\"img\"" not in item[0] and "class=\"ima" not in item[0]:
+            body3.append("<tr><td>" + item[0].replace("\n", "") + "</td><td>" + item[1].replace("\n", "") + "</td></tr>\n")
+        else:
+            body3.append("<tr><td colspan=\"2\">" + item[1].replace("\n", "") + "<td></tr>\n")
+
+    return head2+["<table><tbody><tr><th style=\"width: 50%;\" >\n"]+body3+ends2
+
+
+srch1 = "srcen.html"
+srch2 = "srczh.html"
+lines1 = open(srch1,encoding="utf-8").readlines()
+lines2 = open(srch2,encoding="utf-8").readlines()
+open("dst.html","w",encoding="utf-8").writelines(builddouble(lines1,lines2))
 </pre>
 </table> </details>
