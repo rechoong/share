@@ -114,15 +114,15 @@ def findstruct(lines):
             body += [line]
         elif tmpflag == 2:
             ends += [line]
-
+	    <br>	    
         if "<body" in line and tmpflag == 0:
             tmpflag = 1
         if i == len(lines)-2 and tmpflag == 1:
             tmpflag = 2
-
+ <br>
         i+=1
     return [head,body,ends]
-
+ <br>
 def pairlist(lis1,lis2):
     i = 0
     tmplis = []
@@ -130,7 +130,7 @@ def pairlist(lis1,lis2):
         tmplis.append([item,lis2[i]])
         i+=1
     return tmplis
-
+ <br>
 def builddouble(lines1,lines2):
     [head1, body1, ends1] = findstruct(lines1)
     [head2, body2, ends2] = findstruct(lines2)
@@ -144,10 +144,9 @@ def builddouble(lines1,lines2):
             body3.append("<tr><td>" + item[0].replace("\n", "") + "</td><td>" + item[1].replace("\n", "") + "</td></tr>\n")
         else:
             body3.append("<tr><td colspan=\"2\">" + item[1].replace("\n", "") + "<td></tr>\n")
-
+ <br>
     return head2+["<table><tbody><tr><th style=\"width: 50%;\" >\n"]+body3+ends2
-
-
+ <br>
 srch1 = "srcen.html"
 srch2 = "srczh.html"
 lines1 = open(srch1,encoding="utf-8").readlines()
