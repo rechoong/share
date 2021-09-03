@@ -18,7 +18,7 @@
 上映日期: 1984 <br>
 片长: 11分钟 <br>
 又名: 36个字 / 36 Characters <br>
-下载：[本地资源备份]()
+下载：[本地资源备份](https://github.com/inchoong/share/blob/share-2020/videos)
 
 三十六个字的剧情简介 · · · · · · <br>
 
