@@ -1,4 +1,4 @@
-- 《[三十六个字](https://movie.douban.com/subject/1441796/)》
+-  [推荐](https://github.com/taoste/taoste.github.io/issues/21)《[三十六个字](https://movie.douban.com/subject/1441796/)》
 
 > 正是一本适合3岁以上幼儿识字的绘本书。今天我们要推荐给大家的是同名动画，曾获国际动画电影节大奖。
 
@@ -18,6 +18,7 @@
 上映日期: 1984 <br>
 片长: 11分钟 <br>
 又名: 36个字 / 36 Characters <br>
+下载：[本地资源备份]()
 
 三十六个字的剧情简介 · · · · · · <br>
 
