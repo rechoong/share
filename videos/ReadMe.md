@@ -18,7 +18,10 @@
 上映日期: 1984 <br>
 片长: 11分钟 <br>
 又名: 36个字 / 36 Characters <br>
-下载：[本地资源备份](https://github.com/inchoong/share/blob/share-2020/videos)
+下载：
+[本地资源备份](https://github.com/inchoong/share/blob/share-2020/videos) 
+[v1](https://baby.choong.net/videos/36.mp4)
+[v2](https://share.choong.net/videos/中国经典甲骨文动画短片：《三十六个字》1984（中国文字的起源).flv)
 
 三十六个字的剧情简介 · · · · · · <br>
 
